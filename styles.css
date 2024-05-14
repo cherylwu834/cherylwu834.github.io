@@ -1,0 +1,20 @@
+body{
+  background-color: red;
+  margin: 30px;
+}
+
+h1
+{
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img{
+  width: 20%;
+  height: auto;
+}
+
+#website-header{
+  text-align: center;
+}
